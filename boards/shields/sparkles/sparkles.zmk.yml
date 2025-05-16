@@ -1,0 +1,11 @@
+file_format: "1"
+id: sparkles
+name: sparkles
+type: shield
+url: https://github.com/uorbe001/sparkles/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - sparkles_right
+  - sparkles_left

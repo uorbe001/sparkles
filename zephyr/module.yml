@@ -1,3 +1,4 @@
+name: sparkles
 build:
   settings:
     board_root: .
