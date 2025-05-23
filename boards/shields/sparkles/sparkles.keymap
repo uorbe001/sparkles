@@ -23,7 +23,7 @@
 
         default_layer { // Layer 0
             bindings = <
-	            &lt DEV GRAVE &kp 1        &kp 2       &kp 3       &kp 4        &kp 5                          &kp 6     &kp 7        &kp 8       &kp 9       &kp 0           &kp DEL
+	            &lt DEV GRAVE &kp N1   &kp N2      &kp N3      &kp N4       &kp N5                         &kp N6    &kp N7       &kp N8      &kp N9      &kp N0           &kp DEL
               &kp TAB   &kp Q        &kp W       &kp E       &kp R        &kp T                          &kp Y     &kp U        &kp I       &kp O       &kp P           &kp NUBS
 		          &kp ESC   &hml LCTRL A &hml LALT S &hml LGUI D &hml LSHFT F &kp G                          &kp H     &hml RSHFT J &hml RGUI K &hml RALT L &hml RCTRL SEMI &kp SQT
               &kp LSHFT &kp Z        &kp X       &kp C       &kp V        &kp B                          &kp N     &kp M        &kp COMMA   &kp DOT     &kp SLASH       &kp RSHFT
