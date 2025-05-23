@@ -23,6 +23,5 @@ include:
     shield: sparkles_right
   - board: nice_nano_v2
     shield: sparkles_left
-    snippet: zmk-usb-logging
 
 
