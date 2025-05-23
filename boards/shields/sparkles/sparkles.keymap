@@ -23,11 +23,11 @@
 
         default_layer { // Layer 0
             bindings = <
-	    &lt DEV GRAVE &kp 1        &kp 2       &kp 3       &kp 4        &kp 5                          &kp 6     &kp 7        &kp 8       &kp 9       &kp 0           &kp DEL
-                &kp TAB   &kp Q        &kp W       &kp E       &kp R        &kp T                          &kp Y     &kp U        &kp I       &kp O       &kp P           &kp NUBS
-		&kp ESC   &hml LCTRL A &hml LALT S &hml LGUI D &hml LSHFT F &kp G                          &kp H     &hml RSHFT J &hml RGUI K &hml RALT L &hml RCTRL SEMI &kp SQT
-                &kp LSHFT &kp Z        &kp X       &kp C       &kp V        &kp B                          &kp N     &kp M        &kp COMMA   &kp DOT     &kp SLASH       &kp RSHFT
-			               &kp MINUS   &kp EQUAL   &kp KP_LPAR  &kp TAB &kp SPACE    &kp SPACE &kp ENTER &kp KP_RPAR  &kp LBKT    &kp RBKT
+	            &lt DEV GRAVE &kp 1        &kp 2       &kp 3       &kp 4        &kp 5                          &kp 6     &kp 7        &kp 8       &kp 9       &kp 0           &kp DEL
+              &kp TAB   &kp Q        &kp W       &kp E       &kp R        &kp T                          &kp Y     &kp U        &kp I       &kp O       &kp P           &kp NUBS
+		          &kp ESC   &hml LCTRL A &hml LALT S &hml LGUI D &hml LSHFT F &kp G                          &kp H     &hml RSHFT J &hml RGUI K &hml RALT L &hml RCTRL SEMI &kp SQT
+              &kp LSHFT &kp Z        &kp X       &kp C       &kp V        &kp B                          &kp N     &kp M        &kp COMMA   &kp DOT     &kp SLASH       &kp RSHFT
+			                               &kp MINUS   &kp EQUAL   &kp HOME  &kp TAB &kp SPACE    &kp SPACE &kp ENTER &kp END  &kp LBKT    &kp RBKT
             >;
         };
 
