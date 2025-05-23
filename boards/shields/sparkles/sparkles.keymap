@@ -33,7 +33,7 @@
 
         device_layer { // Layer 1
             bindings = <
-	        &trans &bootloader &trans   &trans   &trans        &trans                          &trans     &trans        &trans       &trans       &trans           &trans
+	        &trans &bootloader &trans   &trans   &trans        &trans                          &trans     &trans        &trans       &trans       &bootloader           &trans
                 &trans &trans      &trans   &trans   &trans        &trans                          &trans     &trans        &trans       &trans       &trans           &trans
 		&trans &trans      &trans   &trans   &trans        &trans                          &trans     &trans        &trans       &trans       &trans           &trans
                 &trans &trans      &trans   &trans   &trans        &trans                          &trans     &trans        &trans       &trans       &trans           &trans
